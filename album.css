@@ -29,7 +29,7 @@ body {
   min-height: 50rem; /* Can be removed; just added for demo purposes  */
   padding-top: 3 rem;
   padding-bottom: 3 rem;
-  background-color:#f7f7f7 ;
+  background-color:#333333 ;
 }
 
 .card {
@@ -37,7 +37,8 @@ body {
   width: 33.33%;
   padding: .75rem;
   margin-bottom: 2rem;
-  border: 2;
+  border:2;
+  background-color:#e7e7e7 ;
 }
 
 .card > img {
