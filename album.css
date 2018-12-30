@@ -26,10 +26,10 @@ body {
 }
 
 .album {
-  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  min-height: 50rem; /* Can be removed; just added for demo purposes * #f7f7f7/
   padding-top: 3 rem;
   padding-bottom: 3 rem;
-  background-color: #f7f7f7;
+  background-color:#0c0c0c ;
 }
 
 .card {
