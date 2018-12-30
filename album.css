@@ -34,11 +34,11 @@ body {
 
 .card {
   float: left;
-  width: 33.333%;
-  padding: .75rem;
+  width: 20%;
+  padding: .35rem;
   margin-bottom: 2rem;
   border: 0;
-  background-color:#b2b2b2  ;
+  background-color:#202020  ;
 }
 
 .card > img {
