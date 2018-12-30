@@ -27,8 +27,8 @@ body {
 
 .album {
   min-height: 50rem; /* Can be removed; just added for demo purposes */
-  padding-top: 10 rem;
-  padding-bottom: 10 rem;
+  padding-top: 3 rem;
+  padding-bottom: 3 rem;
   background-color: #f7f7f7;
 }
 
